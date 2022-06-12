@@ -1,4 +1,2 @@
 
-<div style="text-align: center;">
-<img src="pulsar.gif" style="image-rendering: pixelated; display: inline-block; margin: 0 auto;">
-</div>
+<img src="pulsar.gif">
